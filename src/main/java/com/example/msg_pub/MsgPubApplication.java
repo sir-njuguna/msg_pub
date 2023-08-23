@@ -12,4 +12,5 @@ public class MsgPubApplication {
         SpringApplication.run(MsgPubApplication.class, args);
     }
 
+
 }
