@@ -20,4 +20,8 @@ public class MessageForm {
     @NotNull
     @Min(0)
     private BigDecimal amount;
+
+    @Getter
+    @Setter
+    private String routingKey;
 }
